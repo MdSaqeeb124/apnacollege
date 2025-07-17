@@ -1,3 +1,3 @@
 # apnacollege
 this is my first git repository
-Author - Md Saqeeb
+Author - Md Saqeeb(basavakalyan)
